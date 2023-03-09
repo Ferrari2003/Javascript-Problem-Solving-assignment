@@ -1,24 +1,3 @@
-// First Problem 
-mindGame
-/* 
-24 input nibo
- 3 diye goon  korbo
- 10 jpg korbo
- 2 diye vaag
- seta theke 5 biyog korba
-*/
-
-// second Problem
-
-evenOdd
-/* 
-string input nibo
-'even'
- */
-
-
-// Third Problem
-isLGSeven
 
 /* 
 Problem 1: Let’s play a mind game

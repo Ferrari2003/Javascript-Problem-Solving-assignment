@@ -8,6 +8,10 @@ function mindGame(num) {
 const output = mindGame(9);
 console.log(output);
 
+// Description..?
+/* 
+In the fast problem we saw the output of the function multiply by three and add by 10 and two minus five.
+*/
 
 
 // Second Problem;
@@ -25,6 +29,9 @@ const stringPrint = evenOdd('isEven');
 
 console.log(stringPrint);
 
+// Description..?
+
+/* Check the length of a sting in the if return event and see the ins return add output */
 
 // Third Problem;
 
@@ -34,6 +41,11 @@ function isLGSeven(num) {
 }
 const total = isLGSeven(20);
 console.log(total);
+
+// Description..?
+
+/* By subtracting seven with an input, I have returned the result if the subtraction is less than the addition */
+
 
 // Fourth Problem;
 
@@ -52,6 +64,10 @@ const data = [1, -2, 3, -4, 5, -6];
 const badArray = findingBadData(data);
 console.log(badArray);
 
+
+// Description..?
+
+/* I saw the output of running with an error badData for loop */
 
 // Firth Problem;
 
@@ -76,3 +92,7 @@ function gemsToDiamond(gems1, gems2, gems3) {
   const allFriend =gemsToDiamond(10, 20, 30);
   console.log(allFriend);
 
+
+//   Description..?
+
+/* By multiplying the age of the friends with the input and adding the total to the times I saw the output with if els */
